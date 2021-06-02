@@ -1,7 +1,7 @@
 # ANSAI
 an ai... maybe... its supposed to be anyway...
 
-**A** **n**ot **s**o **A**rtificial **I**ntelligence
+it stands for (anagram) **A**rtificial human-like **I**nteractions and **R**esponces
 
 ---
 
